@@ -1,0 +1,41 @@
+.titulo {
+    text-align: center;
+}
+
+.subtitulo {
+    margin: 15px;
+}
+
+.tabela {
+    margin: 15px;
+}
+
+.cabecalho-moda, .cabecalho-casa, th {
+    padding: 10px;
+}
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+
+.produtos {
+    background-color: #424250;
+    color: #fff;
+    text-align: center;
+    font-size: 18px; 
+}
+
+.produtos, td {
+    padding: 5px;
+}
+
