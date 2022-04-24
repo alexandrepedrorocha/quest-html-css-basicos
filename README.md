@@ -3,7 +3,7 @@ Um desafio de estilização de tabelas utilizando HTML e CSS;
 
 ## O Desafio 🦾
 
-<img src="./src/desafio.gif" alt="imagem do que pediu o desafio">
+<img src="./src/images/desafio.gif" alt="imagem do que pediu o desafio">
 
 ## Tecnologias utilizadas ⌨️
 
@@ -12,7 +12,7 @@ Um desafio de estilização de tabelas utilizando HTML e CSS;
 
 ## Resultado 👌
 
-<img src="./src/resultado.jpg">
+<img src="./src/images/resultado.jpg">
 
 ## Desafios nessa jornada 👻
 
